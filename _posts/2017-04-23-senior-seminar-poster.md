@@ -1,6 +1,6 @@
 ---
 layout: post
 title: "Undergrad Senior Seminar Poster Neural Network"
-date: 2017-04-22
+date: 2017-04-23
 ---
-<embed src="/SACBinayaBhattarai.pdf"/>
+<img class="full-screen" src="/sac_poster.png"/> 
